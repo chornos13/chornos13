@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Vidio](https://vidio.com)  
   
 
-- 🌱 I’m currently learning Docker and Testing  
+- 🌱 I’m currently learning CI, Ruby, Webpack/Rollup and Docker
   
 
 - ❓ Ask me about anything related to React.js/Node.js and related technologies  
