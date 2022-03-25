@@ -2,10 +2,7 @@
   
 
 ### <div align="center">I'm Muhammad Syafaat, a full-time full-stack developer 👨‍💻 learning Programming since 2010 in various languages 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Vidio](https://vidio.com)  
-  
+    
 
 - 🌱 I’m currently learning CI, Ruby, Webpack/Rollup and Docker
   
