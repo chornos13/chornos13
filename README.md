@@ -7,10 +7,10 @@ Hi, I'm Muhammad Syafaat, a Frontend Engineer with 6 years of professional exper
 I have experience building web applications for private companies, government agencies, and BUMN (state-owned enterprises). I focus on improving both user and developer experiences, ensuring applications are efficient, scalable, and reliable
 
 ### 🔧 Technologies & Tools I Work With:
-- **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, Storybook, Jest, Testing Library, Playwright, Sentry
-  - **Previously used**: Cypress  
+- **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, Storybook, Jest, Testing Library, Playwright, Sentry, Zod, React Query, Zustand, React Hook Form, Tailwind
+  - **Previously used**: Cypress, Redux, Formik, AntD, Bulma, Bootstrap, Yup
 
-- **Backend**: Node.js, Fastify, RESTful APIs, Drizzle, Swagger
+- **Backend**: Node.js, Fastify, RESTful APIs, Drizzle, Swagger, Jest, Typebox
   - **Previously used**: Express.js, Knex
 
 - **Database**: MySQL, PostgreSQL
