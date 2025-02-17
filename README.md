@@ -1,9 +1,10 @@
 # Muhammad Syafaat - Frontend Engineer
 
-👋 Hi there! I'm Muhammad Syafaat, a passionate Frontend Engineer with 6 years of professional experience. I specialize in creating responsive and scalable web applications using modern JavaScript libraries and tools like React.js, Next.js, Express.js and Fasitfy.
+Hi, I'm Muhammad Syafaat, a Frontend Engineer with 6 years of professional experience. I specialize in building responsive and scalable web applications using JavaScript libraries and tools like React.js, Next.js, Express.js, and Fastify.
+
 
 ## 👨‍💻 About Me
-I have a strong background in building high-quality web applications for private companies, government agencies, and BUMN (state-owned enterprises). I'm passionate about improving both **user experience (UX)** and **developer experience (DX)**, ensuring seamless, scalable, and high-performing applications.
+I have experience building web applications for private companies, government agencies, and BUMN (state-owned enterprises). I focus on improving both user and developer experiences, ensuring applications are efficient, scalable, and reliable
 
 ### 🔧 Technologies & Tools I Work With:
 - **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, Storybook, Jest, Testing Library, Cypress, Playwright, Sentry
@@ -18,7 +19,7 @@ I have a strong background in building high-quality web applications for private
 Right now, I’m focused on improving a Smart TV app. My role involves ensuring high-quality user experiences and optimizing performance.
 
 ## 📚 Mentorship & Leadership
-I’m passionate about mentoring the next generation of developers. Over the years, I’ve mentored interns from both **college** and **high school** levels, helping them grow their technical skills and fostering their interest in software development.
+I lead the Smart TV engineering team and have mentored college and high school interns, helping them develop technical skills in software development.
 
 ## 🌱 I’m Always Learning
 I'm continuously improving my skill set in **performance optimization**, **test-driven development (TDD)**, and exploring new technologies to stay on the cutting edge of web development.
