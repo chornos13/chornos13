@@ -7,13 +7,25 @@ Hi, I'm Muhammad Syafaat, a Frontend Engineer with 6 years of professional exper
 I have experience building web applications for private companies, government agencies, and BUMN (state-owned enterprises). I focus on improving both user and developer experiences, ensuring applications are efficient, scalable, and reliable
 
 ### 🔧 Technologies & Tools I Work With:
-- **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, Storybook, Jest, Testing Library, Cypress, Playwright, Sentry
-- **Backend**: Node.js, Express.js, Fastify, RESTful APIs, Drizzle, Knex.
+- **Frontend**: React.js, Next.js, TypeScript, HTML, CSS, Storybook, Jest, Testing Library, Playwright, Sentry
+  - **Previously used**: Cypress  
+
+- **Backend**: Node.js, Fastify, RESTful APIs, Drizzle, Swagger
+  - **Previously used**: Express.js, Knex
+
 - **Database**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub, Gitlab
-- **Performance**: Dev Tools (Google Lighthouse, Web Vitals, Performance, Memory), React Profiler, SpeedCurve
-- **Testing**: Unit, Integration, E2E testing, TDD
-- **CI/CD**: Jenkins, Gitlab, Github
+  - **Previously used**: MongoDB
+
+- **Version Control**: Git, GitHub, GitLab  
+
+- **Performance**: Google Lighthouse, Web Vitals, Performance, Memory, React Profiler, Autocannon, Sentry, SpeedCurve
+
+- **Debugging**: DevTools, Sentry, Chrome Debugger, VSCode Debugger
+
+- **Testing**: Unit, Integration, E2E, TDD  
+
+- **CI/CD**: Jenkins, GitLab CI, GitHub Actions  
+
 
 ## 💼 Current Focus
 Right now, I’m focused on improving a Smart TV app. My role involves ensuring high-quality user experiences and optimizing performance.
