@@ -1,6 +1,6 @@
 # Muhammad Syafaat - Frontend Engineer
 
-👋 Hi there! I'm Muhammad Syafaat, a passionate Frontend Engineer with 6 years of experience. I specialize in creating responsive and scalable web applications using modern JavaScript libraries and tools like React.js, Next.js, Express.js and Fasitfy.
+👋 Hi there! I'm Muhammad Syafaat, a passionate Frontend Engineer with 6 years of professional experience. I specialize in creating responsive and scalable web applications using modern JavaScript libraries and tools like React.js, Next.js, Express.js and Fasitfy.
 
 ## 👨‍💻 About Me
 I have a strong background in building high-quality web applications for private companies, government agencies, and BUMN (state-owned enterprises). I'm passionate about improving both **user experience (UX)** and **developer experience (DX)**, ensuring seamless, scalable, and high-performing applications.
