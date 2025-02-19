@@ -18,7 +18,7 @@ I have experience building web applications for private companies, government ag
 
 - **Version Control**: Git, GitHub, GitLab  
 
-- **Performance**: Google Lighthouse, Web Vitals, Performance, Memory, React Profiler, Autocannon, Sentry, SpeedCurve
+- **Performance**: Google Lighthouse, Dev Tools (Web Vitals, Performance, Memory, React Profiler), Autocannon, Sentry, SpeedCurve, Crazy Egg
 
 - **Debugging**: DevTools, Sentry, Chrome Debugger, VSCode Debugger
 
